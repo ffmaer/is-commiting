@@ -70,3 +70,4 @@ May 23
 May 24
 May 31
 Jun 1
+Jun 2
